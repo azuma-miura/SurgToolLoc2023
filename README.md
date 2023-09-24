@@ -1,7 +1,7 @@
 # How to run and reproduce algorithm container
 
 ## Clone this repository and install packages
-`pip install .'
+`pip install .`
 
 ## Download latest.pth
 Download latest.pth from this link
