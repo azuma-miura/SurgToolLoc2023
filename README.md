@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Docker image & algorithm submission for Category 2 of SurgToolLoc Challenge 2022
 
 This repository has everything you and your team need to make an algorithm submission for the [SurgToolLoc Challenge](https://surgtoolloc.grand-challenge.org/) Category 2.
@@ -100,6 +101,9 @@ If something does not work for you, please do not hesitate to [contact us](mailt
 
 The repository is greatly inspired and adapted from [MIDOG reference algorithm](https://github.com/DeepPathology/MIDOG_reference_docker), [AIROGS reference algorithm](https://github.com/qurAI-amsterdam/airogs-example-algorithm) and [SLCN reference algorithm](https://github.com/metrics-lab/SLCN_challenge)
 
+=======
+# SurgToolLoc2023
+>>>>>>> origin/master
 =======
 # SurgToolLoc2023
 >>>>>>> origin/master
